@@ -1,0 +1,16 @@
+{
+  "name": "adapt-process",
+  "version": "0.0.17",
+  "framework": ">=4",
+  "homepage": "https://github.com/elearningdifferently/adapt-process",
+  "displayName" : "Process Slider",
+  "component" : "process",
+  "description": "A component that displays a slider with text and accompaying media",
+  "author": "Matthew Terentjev",
+  "main": "/js/adapt-process.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
