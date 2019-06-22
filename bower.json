@@ -1,6 +1,6 @@
 {
   "name": "adapt-process",
-  "version": "0.0.20",
+  "version": "0.0.35",
   "framework": ">=4",
   "homepage": "https://github.com/elearningdifferently/adapt-process",
   "displayName" : "Process Slider",
